@@ -1,4 +1,4 @@
-const API_KEY = ' 46e01a63';
+const API_KEY = '46e01a63';
 const BASE_URL = 'https://www.omdbapi.com/';
 
 const handleResponse = async (response) => {
